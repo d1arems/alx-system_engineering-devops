@@ -1,2 +1,2 @@
 #!/ban/bin
-chown vincent:staff */
+chown vincent:staff .
